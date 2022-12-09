@@ -1,0 +1,17 @@
+.nav-bar {
+  position: sticky;
+  display: flex;
+  width: 100vw;
+  height: 80px;
+  background-color: aqua;
+  align-items: center;
+}
+.nav-item {
+  width: 100px;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 100px;
+}
+.nav-item:hover {
+  cursor: pointer;
+}

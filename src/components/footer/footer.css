@@ -1,0 +1,10 @@
+.footer-bar {
+  width: 100vw;
+  height: 30px;
+  background-color: #545553;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  
+  align-items: center;
+}
